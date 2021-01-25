@@ -1,3 +1,2 @@
 # Bubble-Sort
-Code is free to use (But maybe do your homework yourself) \
-Eclipse = bad, use Intellij
+This repo contains the source code of Bubble Sort in Java (src Folder).
